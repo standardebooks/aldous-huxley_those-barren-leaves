@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/aldous-huxley/those-barren-leaves</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-03-04T03:01:11Z</dc:date>
+		<meta property="dcterms:modified">2022-03-04T03:01:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,16 +39,18 @@
 		<meta property="term" refines="#subject-3">sh2008104656</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An aristocrat summons a group of “intelligentsia” to vacation in her Italian mansion.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Mrs. Aldwinkle, an English aristocrat of a certain age, has purchased a mansion in the Italian countryside. She wishes to bring a salon of intellectual luminaries into her orbit, and to that end she invites a strange cast of characters to spend time with her in her palazzo: Irene, her young niece; Ms. Thriplow, a governess-turned-novelist; Mr. Calamy, a handsome young man of great privilege and even greater ennui; Mr. Cardan, a worldly gentleman whose main talent seems to be the enjoyment of life; Hovenden, a young motorcar-obsessed lord with a speech impediment; and Mr. Falx, a socialist leader. To this unlikely cast is soon added Mr. Chelifer, an author with an especially florid, overwrought style that is wasted on his day job as editor of &lt;i&gt;The Rabbit Fancier’s Gazette&lt;/i&gt;, and the Elvers, a scheming brother who is the guardian of his mentally-challenged sister.&lt;/p&gt;
+			&lt;p&gt;As this unlikely group mingles, they discuss a great many grand topics: love, art, language, life, culture. Yet very early on the reader comes to realize that behind the pompousness of their elaborate discussions lies nothing but vacuity—these characters are a satire of the self-important intellectuals of &lt;a href="https://standardebooks.org/ebooks/aldous-huxley"&gt;Huxley&lt;/a&gt;’s era.&lt;/p&gt;
+			&lt;p&gt;His skewering of their intellectual barrenness continues as the group moves on to a trip around the surrounding country, in a satire of the Grand Tour tradition. The party brings their English snobbery out in full force as they traipse around Rome, sure of nothing else except in their belief that Italy is culturally superior simply because it’s &lt;em&gt;Italy&lt;/em&gt;.&lt;/p&gt;
+			&lt;p&gt;As the vacation winds down, we’re left with a biting lampoon of the elites who suppose themselves to be at the height of art and culture—the kinds of personalities that arise in every generation, sure of their own greatness but unable to actually contribute anything to the world of art and culture that they feel is so important.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20160510</dc:source>
 		<dc:source>https://books.google.com/books?id=OyUiAAAAMAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">124986</meta>
+		<meta property="se:reading-ease.flesch">64.71</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Those_Barren_Leaves</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/aldous-huxley_those-barren-leaves</meta>
 		<dc:creator id="author">Aldous Huxley</dc:creator>
